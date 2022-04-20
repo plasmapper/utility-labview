@@ -8,9 +8,11 @@
 
 </Property>
 	<Item Name="Public" Type="Folder">
-		<Item Name="Find Control in Cluster.vi" Type="VI" URL="../../.utility-labview/Public/Find Control in Cluster.vi"/>
-		<Item Name="Find Control in VI.vi" Type="VI" URL="../../.utility-labview/Public/Find Control in VI.vi"/>
-		<Item Name="Load VI State.vi" Type="VI" URL="../../.utility-labview/Public/Load VI State.vi"/>
-		<Item Name="Save VI State.vi" Type="VI" URL="../../.utility-labview/Public/Save VI State.vi"/>
+		<Item Name="Find Control in Cluster.vi" Type="VI" URL="../Public/Find Control in Cluster.vi"/>
+		<Item Name="Find Control in VI.vi" Type="VI" URL="../Public/Find Control in VI.vi"/>
+		<Item Name="Load VI State.vi" Type="VI" URL="../Public/Load VI State.vi"/>
+		<Item Name="Reserve Hardware for DAQmx Task.vi" Type="VI" URL="../Public/Reserve Hardware for DAQmx Task.vi"/>
+		<Item Name="Save VI State.vi" Type="VI" URL="../Public/Save VI State.vi"/>
+		<Item Name="Unreserve Hardware for DAQmx Task.vi" Type="VI" URL="../Public/Unreserve Hardware for DAQmx Task.vi"/>
 	</Item>
 </Library>
