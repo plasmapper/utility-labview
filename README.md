@@ -1,5 +1,11 @@
 # Utility Library for LabVIEW
 
+## Requirements
+LabVIEW 2015 and higher.
+
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_utility/)
+
 ## Features
 1. Save/load front VI state to/from file. 
 2. Find VI control by label in VI/cluster.
