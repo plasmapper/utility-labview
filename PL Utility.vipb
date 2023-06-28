@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-05 19:47:26" Modified_Date="2023-06-23 18:37:00" Creator="Researcher" Comments="" ID="8ca227faee9624dfa17c72c304e3e790">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-05 19:47:26" Modified_Date="2023-06-28 09:59:05" Creator="Researcher" Comments="" ID="ed0ca0e09a5f9ba8b1e6f4204d7c4b42">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Utility</Package_File_Name>
-    <Library_Version>1.0.1.4</Library_Version>
+    <Library_Version>1.0.1.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -299,7 +299,7 @@ Features
         <Path>Public\Unreserve Hardware for DAQmx Task.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>07976327F909B9454C5DFFFC6E7685C2</GUID>
+      <GUID>7AEC61083AAFDB48A53608E31CE2F88E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
